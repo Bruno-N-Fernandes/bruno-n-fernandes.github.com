@@ -1,3 +1,11 @@
+# Repos
+> https://github.com/Bruno-N-Fernandes
+>  
+> https://github.com/Mercado-Pleno
+> 
+> https://github.com/sidneisilvadev
+
+
 # Pages
 > https://bruno-n-fernandes.github.io
 > 
@@ -18,7 +26,3 @@
 > https://mentoria.mercadopleno.com.br
 > 
 > https://app.plenoinvestidor.com.br
-> 
-> 
-> 
-> 
